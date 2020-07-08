@@ -1,0 +1,16 @@
+﻿namespace HR_match.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class forUpdate : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
